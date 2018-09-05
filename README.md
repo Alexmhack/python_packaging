@@ -303,4 +303,8 @@ twine upload dist/*
 ```
 
 The same credentials will be asked but this time enter in pypi.org details and
-install the package using the simple ```pip isntall your-package```
+install the package using the simple 
+
+```
+pip install your-package
+```
